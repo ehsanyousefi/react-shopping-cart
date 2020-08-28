@@ -1,0 +1,15 @@
+.nav-links {
+  display: flex;
+  list-style: none;
+  height: 7vh;
+  background-color: #dc3545;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+}
